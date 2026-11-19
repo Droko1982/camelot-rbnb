@@ -1,0 +1,8 @@
+/* TEAM */
+Concepto y desarrollo: Dr. Mauricio Rodríguez Herrera
+Ubicación: Armenia, Quindío, Colombia
+
+/* SITE */
+Última actualización: 2026-11-19
+Idiomas: es, en, fr, de, pt
+Estándares: HTML5, CSS3, JavaScript sin dependencias

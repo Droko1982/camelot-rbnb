@@ -1,0 +1,35 @@
+# Camelot — Armenia, Quindío, Colombia
+
+> Habitaciones privadas con baño propio y Wi-Fi en el centro de Armenia, Quindío. Estadías cortas, medianas y largas por noche, semana o mes. Reserva directa.
+
+> Private hotel-style rooms with en-suite bath and Wi-Fi in downtown Armenia, Quindío, Colombia’s Coffee Region. Nightly, weekly and monthly rates. Book direct.
+
+## Pages
+- [Camelot | Hospedaje en Armenia, Quindío por noches o meses](https://droko1982.github.io/camelot-rbnb/)
+- [Camelot | Downtown Armenia, Colombia Hotel Rooms · Nightly to Monthly](https://droko1982.github.io/camelot-rbnb/en/)
+- [Camelot | Hôtel au centre d’Armenia, Colombie · Nuit, semaine, mois](https://droko1982.github.io/camelot-rbnb/fr/)
+- [Camelot | Hotel & Unterkunft im Zentrum von Armenia, Kolumbien](https://droko1982.github.io/camelot-rbnb/de/)
+- [Camelot | Hotel no centro de Armenia, Colômbia · Diárias e mensais](https://droko1982.github.io/camelot-rbnb/pt/)
+- [Habitaciones amobladas por meses en Armenia, Quindío | Camelot](https://droko1982.github.io/camelot-rbnb/estadias-largas/)
+- [Monthly Furnished Rooms in Armenia, Quindío, Colombia | Camelot](https://droko1982.github.io/camelot-rbnb/en/long-stays/)
+- [Chambre meublée au mois à Armenia, Quindío | Camelot](https://droko1982.github.io/camelot-rbnb/fr/longs-sejours/)
+- [Möbliertes Zimmer monatlich in Armenia, Quindío | Camelot](https://droko1982.github.io/camelot-rbnb/de/langzeitaufenthalte/)
+- [Quarto mobiliado por mês em Armenia, Quindío | Camelot](https://droko1982.github.io/camelot-rbnb/pt/estadias-longas/)
+- [Qué hacer en Armenia y el Quindío: guía local | Camelot](https://droko1982.github.io/camelot-rbnb/guia-armenia-quindio/)
+- [Things to Do in Armenia & Quindío: Coffee Region Guide | Camelot](https://droko1982.github.io/camelot-rbnb/en/armenia-quindio-guide/)
+- [Que faire à Armenia et dans le Quindío : guide local | Camelot](https://droko1982.github.io/camelot-rbnb/fr/guide-armenia-quindio/)
+- [Armenia & Quindío: Reiseführer Kaffeeregion Kolumbien | Camelot](https://droko1982.github.io/camelot-rbnb/de/reisefuehrer-armenia-quindio/)
+- [O que fazer em Armenia e no Quindío: guia local | Camelot](https://droko1982.github.io/camelot-rbnb/pt/guia-armenia-quindio/)
+- [Políticas, privacidad y normas de la casa | Camelot Armenia](https://droko1982.github.io/camelot-rbnb/politicas/)
+- [Policies, Privacy & House Rules | Camelot Armenia](https://droko1982.github.io/camelot-rbnb/en/policies/)
+- [Politiques, confidentialité et règlement intérieur | Camelot Armenia](https://droko1982.github.io/camelot-rbnb/fr/politiques/)
+- [Richtlinien, Datenschutz und Hausordnung | Camelot Armenia](https://droko1982.github.io/camelot-rbnb/de/richtlinien/)
+- [Políticas, privacidade e regras da casa | Camelot Armenia](https://droko1982.github.io/camelot-rbnb/pt/politicas/)
+
+## Facts
+- Type: private hotel-style rooms with private bathroom (short, medium and long stays)
+- Location: city centre of Armenia, Quindío, Colombia (Coffee Cultural Landscape, UNESCO)
+- Check-in 15:00 · Check-out 12:00
+- Rooms: 14
+- Medium stays (7+ nights): 15% off · Long stays (30+ nights): monthly rate, utilities and Wi-Fi included
+- Languages on site: es, en, fr, de, pt

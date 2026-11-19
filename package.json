@@ -1,0 +1,14 @@
+{
+  "name": "camelot-rbnb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio web de Camelot, hospedaje en el centro de Armenia, Quindío (estadías cortas, medianas y largas).",
+  "author": "Dr. Mauricio Rodríguez Herrera",
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check-i18n.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

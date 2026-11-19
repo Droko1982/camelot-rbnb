@@ -1,0 +1,249 @@
+{
+ "hero-armenia": {
+  "file": "Plaza de Bolívar Armenia.jpg",
+  "author": "Juan Diego Quintero",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3APlaza_de_Bol%C3%ADvar_Armenia.jpg",
+  "widths": [
+   768,
+   1280,
+   1920
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "hero-cocora": {
+  "file": "Paisaje Valle del Cocora.jpg",
+  "author": "Estebanhphoto",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3APaisaje_Valle_del_Cocora.jpg",
+  "widths": [
+   768,
+   1280,
+   1920
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "hero-filandia": {
+  "file": "Calle 7, Filandia 02.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3ACalle_7%2C_Filandia_02.jpg",
+  "widths": [
+   768,
+   1280,
+   1920
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "room-escudero": {
+  "file": "Bed in hotel room 5.jpg",
+  "author": "Kurt Kaiser",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File%3ABed_in_hotel_room_5.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "room-caballero": {
+  "file": "Bed in hotel room 2.jpg",
+  "author": "Kurt Kaiser",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File%3ABed_in_hotel_room_2.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "room-hermandad": {
+  "file": "Bed in hotel room 3.jpg",
+  "author": "Kurt Kaiser",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File%3ABed_in_hotel_room_3.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "room-mesa": {
+  "file": "Hotel-room-renaissance-columbus-ohio.jpg",
+  "author": "Derek Jensen (Tysto)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File%3AHotel-room-renaissance-columbus-ohio.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "room-detalle": {
+  "file": "Bed at Hotel Esplanade in Stockholm in the evening.jpg",
+  "author": "JIP",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3ABed_at_Hotel_Esplanade_in_Stockholm_in_the_evening.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "room-suite": {
+  "file": "Lobby lounge of Amantaka Suite Amantaka luxury Resort & Hotel Luang Prabang Laos.jpg",
+  "author": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3ALobby_lounge_of_Amantaka_Suite_Amantaka_luxury_Resort_%26_Hotel_Luang_Prabang_Laos.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-plaza": {
+  "file": "Plaza de Bolívar Armenia.jpg",
+  "author": "Juan Diego Quintero",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3APlaza_de_Bol%C3%ADvar_Armenia.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-catedral": {
+  "file": "Catedral de armenia.jpg",
+  "author": "Jorgecuyabro",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File%3ACatedral_de_armenia.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-parquevida": {
+  "file": "Parque de la Vida.JPG",
+  "author": "Ben10Ben10",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3AParque_de_la_Vida.JPG",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-museo": {
+  "file": "Museo del Oro Quimbaya.jpg",
+  "author": "CamiloBer04",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMuseo_del_Oro_Quimbaya.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-botanico": {
+  "file": "Mariposario, Jardín Botánico del Quindío.JPG",
+  "author": "Karolynaroca",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMariposario%2C_Jard%C3%ADn_Bot%C3%A1nico_del_Quind%C3%ADo.JPG",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-parquecafe": {
+  "file": "EL MIRADOR en el Parque del Café, en Montenegro, Quindío.JPG",
+  "author": "ACHETORRES",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3AEL_MIRADOR_en_el_Parque_del_Caf%C3%A9%2C_en_Montenegro%2C_Quind%C3%ADo.JPG",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-panaca": {
+  "file": "Puesto informacion turistica.jpg",
+  "author": "Franciscokarriere",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3APuesto_informacion_turistica.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-cocora": {
+  "file": "Paisaje Valle del Cocora.jpg",
+  "author": "Estebanhphoto",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3APaisaje_Valle_del_Cocora.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "place-filandia": {
+  "file": "Calle 7, Filandia 02.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3ACalle_7%2C_Filandia_02.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ },
+ "grial-cafe": {
+  "file": "NP 2DU colombia 5 lo (5244837554).jpg",
+  "author": "CIAT",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3ANP_2DU_colombia_5_lo_%285244837554%29.jpg",
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "ratio": 1.3333333333333333
+ }
+}
